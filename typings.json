@@ -1,0 +1,7 @@
+{
+  "name": "shapefile",
+  "main": "shapefile.d.ts",
+  "globalDependencies": {
+    "geojson": "registry:dt/geojson#0.0.0+20160619034323"
+  }
+}
