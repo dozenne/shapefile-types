@@ -1,6 +1,5 @@
 // Type definitions for shapefile 0.4.0
 
-namespace shapefile {
-}
+declare var shapefile: any;
 
 export = shapefile;
