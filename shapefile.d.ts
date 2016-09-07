@@ -10,7 +10,7 @@ namespace shapefile {
         open(path: string): any,
         header(): any,
         record(): any,
-        close()
+        close(): void
     }
 }
 declare var shapefile: {
